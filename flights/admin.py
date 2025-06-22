@@ -7,4 +7,3 @@ admin.site.register(Airport)
 admin.site.register(Flight)
 admin.site.register(Passenger)
 
-#14:21
